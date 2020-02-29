@@ -1,5 +1,3 @@
-//  Interval Exercise (follow the instructions below).
-
 //  This code will run as soon as the page loads.
 window.onload = function() {
   $("#lap").on("click", recordLap);
